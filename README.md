@@ -15,7 +15,7 @@ git clone <repo-url>
 cd real_time_object_detection
 
 Install dependencies:
-
+------
 pip install ultralytics streamlit opencv-python
 
 Usage
